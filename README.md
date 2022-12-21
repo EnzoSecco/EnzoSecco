@@ -1,4 +1,13 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A77ECB&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87B1BB&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+Nome+É+Enzo+Secco+Tenho+17+anos;Sou+do+Brasil,+PR;Eu+Estudo+Desenvolvimento+de+Software;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=EnzoSecco&show_icons=true&count_private=true&hide_border=true&title_color=70578A&icon_color=87B1BB&text_color=87B1BB&bg_color=0d1117" alt="Enzo Secco stats" /> 
+  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoSecco&layout=compact&hide_border=true&title_color=87B1BB&text_color=87B1BB&bg_color=0d1117" />
+</div>
+
+### Olá 👋
 
 <!--
 **EnzoSecco/EnzoSecco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
