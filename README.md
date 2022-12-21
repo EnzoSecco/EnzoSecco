@@ -7,22 +7,13 @@
   <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoSecco&layout=compact&hide_border=true&title_color=87B1BB&text_color=87B1BB&bg_color=0d1117" />
 </div>
 
-### Olá 👋
-
-<!--
-**EnzoSecco/EnzoSecco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><div>
+###  👋
+<div>
+<img align="center" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor">
+<img align="center" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">
+<hr>
+  </div>
+  
   <a href="https://www.instagram.com/uenzo_secco1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="www.linkedin.com/in/enzosecco" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/Enzo_Secco" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
